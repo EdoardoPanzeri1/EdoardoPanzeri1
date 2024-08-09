@@ -4,4 +4,4 @@
 
 - 📚 Currently learning Kubernetes and looking forward to what's next
 
-- Outside of tech, I'm a cinephile, comics enthusiast, collectible card fan, and video game lover. 🎬🎮🃏
+- 🎬🎮🃏 Outside of tech, I'm a cinephile, comics enthusiast, collectible card fan, and video game lover.
